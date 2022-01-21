@@ -4,21 +4,27 @@
     font-family: sans-serif;
   }
 
-  .heading {
+.navbar {
+      overflow: hidden;
+      position: fixed;
+      top: 0;
+      width: 100%;
+  }
+.heading {
     color: rebeccapurple;
   }
-  .nav-links {
+.nav-links {
     display: flex;
     list-style: none;
     padding-left: 0;
   }
-  .nav-link-item {
+.nav-link-item {
     padding-right: 2rem;
   }
-  .nav-link-text {
+.nav-link-text {
     color: black;
   }
-  .site-title {
+.site-title {
     font-size: 3rem;
     color: gray;
     font-weight: 700;
