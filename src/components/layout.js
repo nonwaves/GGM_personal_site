@@ -28,6 +28,8 @@ const Layout = ({ pageTitle, children }) => {
           <li className={navLinkItem}><Link to="/" className={navLinkText}>Home</Link></li>
           <li className={navLinkItem}><Link to="/about" className={navLinkText}>About</Link></li>
           <li className={navLinkItem}><Link to="/blog" className={navLinkText}>Blog</Link></li>
+          <li className={navLinkItem}><a href="https://github.com/nonwaves/" target="_blank" className={navLinkText}>GitHub</a></li>
+          <li className={navLinkItem}><a href="https://www.linkedin.com/in/gabriel-marquez-98666080/" target="_blank" className={navLinkText}>LinkedIn</a></li>
         </ul>
       </nav>
       <main>
