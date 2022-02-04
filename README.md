@@ -1,1 +1,1 @@
-Simple personal site built using the official Gatsbyjs documentation and following the tutorial as a starter.
+Simple personal site built using Gatsbyjs and deployed on Gatsby Cloud
