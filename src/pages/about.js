@@ -4,8 +4,9 @@ import Layout from '../components/layout'
 const AboutPage = () => {
     return (
         <Layout pageTitle="About Me">
-            <p>I'm an entry level developer who is learning their way along the full stack.</p>
-            <p>I built this site using GatsbyJS, delployed using Gatsby cloud, modified from the official tutorial.</p>
+            <h3>My name is Gabriel Márquez</h3>
+            <p>I'm a web developer with a passion for helping people through the power of coding.</p>
+            <p>I love solving problems and won't rest until I find the best way to accomplish a task.</p>
         </Layout>
     )
 }
