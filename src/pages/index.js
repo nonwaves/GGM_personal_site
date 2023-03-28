@@ -6,6 +6,8 @@ const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
       <p>My name is Gabriel Márquez, welcome to my site!</p>
+      <p>I'm a web developer located in South Florida, you can find out more about me using the links above.</p>
+
       <StaticImage
         alt="a pictuure of myself in front of Snoqualmie Falls"
         src="../images/gabe_snoqualmie.jpeg"
